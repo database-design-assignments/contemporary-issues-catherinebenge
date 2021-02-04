@@ -1,3 +1,4 @@
-# Contemporary Issues In Data
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+#Contemporary Issues In Data
+####Authored by Catherine Benge
+Hi! This is a test. Content coming soon :)
